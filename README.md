@@ -149,9 +149,9 @@ O projeto segue uma arquitetura modular para facilitar a manutenção:
 
 ## Autoria
 
-**Aluno:** Felipe Oliveira Sant'Ana
-**Curso:** Análise e Desenvolvimento de Sistemas
-**Instituição:** Pontifícia Universidade Católica de Goiás (PUC Goiás)
-**Disciplina:** Projeto Integrador V-A
-**Professor Orientador:** Thalles Bruno Goncalves Nery dos Santos
+**Aluno:** Felipe Oliveira Sant'Ana  
+**Curso:** Análise e Desenvolvimento de Sistemas  
+**Instituição:** Pontifícia Universidade Católica de Goiás (PUC Goiás)  
+**Disciplina:** Projeto Integrador V-A  
+**Professor Orientador:** Thalles Bruno Goncalves Nery dos Santos  
 **Data:** 03 de Dezembro de 2025
